@@ -8,4 +8,6 @@ keywords:
   - alfresco zeppelin
   - alfresco insight zeppelin
 name: alfresco-insight-zeppelin
+sources:
+  - https://github.com/Alfresco/acs-deployment
 version: 1.0.3
